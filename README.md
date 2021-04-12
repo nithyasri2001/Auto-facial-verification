@@ -13,3 +13,7 @@ Languages:
   
    * Python
    * HTML5
+
+OUTPUT
+
+<img width="310" alt="output" src="https://user-images.githubusercontent.com/68546370/114417895-a2651080-9bcf-11eb-97af-64d35934fb7e.png">
