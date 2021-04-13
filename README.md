@@ -12,7 +12,6 @@ capture the live image of the user using the front camera in the system.
 Languages:
   
    * Python
-   * HTML5
 
 OUTPUT:
 
